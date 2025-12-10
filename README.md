@@ -1,5 +1,5 @@
 # LinuxTerminalHelper
-A simple AI assistant to help with Linux terminal commands written in python, based on Gemini 2.5-Flash.
+A simple AI assistant to help with Gnu/Linux terminal commands. written in python and based on Gemini 2.5-Flash.
 
 Created as a coursework project during my IT engineering studies.
 
