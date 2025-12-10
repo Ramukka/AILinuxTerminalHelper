@@ -16,13 +16,7 @@ You can set it up automatically using the included setup tool, or manually using
 # Features
 Simple helper command you can run from any terminal. The program is aware of your distribution and kernel version and has access to your installed packages (dpkg, pacman, rpm).
 It can also read your journalctl and manpages.
-The program will not execute anything else in your terminal.
-
-Automatic setup tool for easy configuration
-
-Manual installation option
-
-Python-based assistant using Gemini 2.5-Flash
+The program will not execute any other terminal commands for safety reasons.
 
 # Installation
 > [!NOTE]
