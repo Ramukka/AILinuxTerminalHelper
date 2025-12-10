@@ -34,7 +34,8 @@ python setup-tool.py
 
 This will configure everything and create the helper command for you.
 
-You will need to paste your own Google Gemini API key to the setup tool, which you can obtain from [here](https://aistudio.google.com/app/api-keys)
+**You will need to paste your own Google Gemini API key to the setup tool, which you can obtain from [here](https://aistudio.google.com/app/api-keys)**
+
 > [!NOTE]
 > The setup tool cannot detect or fix an incorrect Gemini API key.
 > You will have to fix it manually in your ~/.bashrc
